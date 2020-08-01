@@ -1,0 +1,68 @@
+[
+    {
+        "id": 12345,
+        "name": "CarBuy 123",
+        "address": {
+            "street": "123 Broadway Cresent",
+            "suburb": "Broadway",
+            "state": "NSW",
+            "postcode": 2002
+        },
+        "phone": "0299887766",
+        "email": "123@carbuy.com",
+        "dealerPrincipal": {
+            "dpName": "Joe Blog",
+            "dpPhone": "0299887777",
+            "dpEmail": "joe.blog@carbuy.com"
+        },
+        "securityAdmin": {
+            "saName": "David Blog",
+            "saPhone": "0299887799",
+            "saEmail": "david.blog@carbuy.com"
+        }
+    },
+    {
+        "id": 12346,
+        "name": "Best Buy",
+        "address": {
+            "street": "456 Best Buy Avenue",
+            "suburb": "Preston",
+            "state": "NSW",
+            "postcode": 2020
+        },
+        "phone": "0288776655",
+        "email": "123@bestbuy.com",
+        "dealerPrincipal": {
+            "dpName": "Jack Black",
+            "dpPhone": "0288776666",
+            "dpEmail": "jack.black@bestbuy.com"
+        },
+        "securityAdmin": {
+            "saName": "Janice Black",
+            "saPhone": "0288776677",
+            "saEmail": "janice.black@bestbuy.com"
+        }
+    },
+    {
+        "id": 12347,
+        "name": "Cars4Us",
+        "address": {
+            "street": "4 Hunter Road",
+            "suburb": "Castle Hill",
+            "state": "NSW",
+            "postcode": 2154
+        },
+        "phone": "0277665544",
+        "email": "123@cars4us.com",
+        "dealerPrincipal": {
+            "dpName": "John Doe",
+            "dpPhone": "0277665555",
+            "dpEmail": "john.doe@cars4us.com"
+        },
+        "securityAdmin": {
+            "saName": "Jane Doe",
+            "saPhone": "0277665566",
+            "saEmail": "jane.doe@cars4us.com"
+        }
+    }
+]
